@@ -1,0 +1,11 @@
+PC | VideoCard | 4 | NVidia
+PC | Monitor | 1 | Dell
+PC | Cream | 1 | Nevea
+PC | Memory | 2 | Corsair
+PCPC | Proc | 2 | Intel
+PCPC | Monitor | 1 | Dell
+PCPC | Cream | 2 | Nevea
+NEW | Memory | 3 | Corsair
+NEW | VideoCard | 6 | NVidia
+NEW | Memory | 20 | AMD
+2 | Cream | 7 | Nevea
